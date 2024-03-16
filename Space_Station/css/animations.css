@@ -102,6 +102,7 @@
 .photo img {
     transition: transform .5s;
     transform-origin: 50% 50%;
+    border-radius: 7px;
 }
 
 .photo:hover img {
